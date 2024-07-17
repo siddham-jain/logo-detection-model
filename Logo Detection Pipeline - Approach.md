@@ -1,3 +1,5 @@
+# Logo Detection Pipeline - Approach
+
 ##### Problem Statement:
 To make a ML pipeline which detects logo of pepsi and coca cola from a video and returns timestamp in `JSON` format
 
