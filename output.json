@@ -1,0 +1,134 @@
+{
+    "Pepsi_pts": [
+        {
+            "timestamp": 0.2,
+            "distance_from_center": 193.478,
+            "size": {
+                "width": 79.146,
+                "height": 75.144
+            }
+        },
+        {
+            "timestamp": 0.2,
+            "distance_from_center": 71.919,
+            "size": {
+                "width": 79.398,
+                "height": 77.654
+            }
+        },
+        {
+            "timestamp": 0.234,
+            "distance_from_center": 193.744,
+            "size": {
+                "width": 79.54,
+                "height": 74.768
+            }
+        },
+        {
+            "timestamp": 0.234,
+            "distance_from_center": 71.952,
+            "size": {
+                "width": 79.365,
+                "height": 77.328
+            }
+        },
+        {
+            "timestamp": 0.267,
+            "distance_from_center": 194.545,
+            "size": {
+                "width": 79.432,
+                "height": 75.882
+            }
+        },
+        {
+            "timestamp": 0.267,
+            "distance_from_center": 71.992,
+            "size": {
+                "width": 79.406,
+                "height": 77.204
+            }
+        },
+        {
+            "timestamp": 0.3,
+            "distance_from_center": 194.625,
+            "size": {
+                "width": 79.215,
+                "height": 75.701
+            }
+        },
+        {
+            "timestamp": 0.3,
+            "distance_from_center": 71.647,
+            "size": {
+                "width": 78.916,
+                "height": 75.992
+            }
+        }
+    ],
+    "CocaCola_pts": [
+        {
+            "timestamp": 0.2,
+            "distance_from_center": 180.646,
+            "size": {
+                "width": 89.274,
+                "height": 252.274
+            }
+        },
+        {
+            "timestamp": 0.2,
+            "distance_from_center": 80.187,
+            "size": {
+                "width": 108.743,
+                "height": 251.803
+            }
+        },
+        {
+            "timestamp": 0.234,
+            "distance_from_center": 176.428,
+            "size": {
+                "width": 103.848,
+                "height": 253.708
+            }
+        },
+        {
+            "timestamp": 0.234,
+            "distance_from_center": 78.637,
+            "size": {
+                "width": 108.442,
+                "height": 251.927
+            }
+        },
+        {
+            "timestamp": 0.267,
+            "distance_from_center": 176.359,
+            "size": {
+                "width": 103.433,
+                "height": 253.94
+            }
+        },
+        {
+            "timestamp": 0.267,
+            "distance_from_center": 77.845,
+            "size": {
+                "width": 109.08,
+                "height": 252.4
+            }
+        },
+        {
+            "timestamp": 0.3,
+            "distance_from_center": 176.422,
+            "size": {
+                "width": 105.103,
+                "height": 255.255
+            }
+        },
+        {
+            "timestamp": 0.3,
+            "distance_from_center": 77.87,
+            "size": {
+                "width": 106.745,
+                "height": 252.699
+            }
+        }
+    ]
+}
