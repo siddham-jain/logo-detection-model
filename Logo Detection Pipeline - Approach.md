@@ -51,6 +51,6 @@ Somehow my model managed to achieved following metrics:-
 - When I tried to run my script on the original video, my VS Code crashed due to insufficient resources. After trimming the video to one minute in length, the script ran successfully.
 
 ##### Conclusion
-This project has successfully implemented a YOLOv8s-based model for Pepsi and Coca-Cola logo detection in video streams. While there is room for improvement, particularly in balancing class performance and optimizing resource usage, this implementation lays down a solid foundation for real-time logo detection.
+In this project I have successfully implemented a YOLOv8s-based model for Pepsi and Coca-Cola logo detection in video streams. While there is room for improvement, particularly in balancing class performance and optimizing resource usage, this implementation lays down a solid foundation for real-time logo detection.
 
 Future work will focus on expanding the dataset, refining the model architecture, and enhancing overall system efficiency to address the challenges and further improve performance.
